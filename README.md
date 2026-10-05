@@ -1,3 +1,4 @@
+[Healthcare_Analysis.xlsx](https://github.com/user-attachments/files/33071423/Healthcare_Analysis.xlsx)
 # Module-end-assignment
 *1.cleaning*
 Count ? per column	=COUNTIF(B2:B2336,"~?") 
